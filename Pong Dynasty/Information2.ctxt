@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Information2
+comment0.text=\n\ Information\ and\ instructions\ for\ combining\ player\ movements\n\ sounds\ from\ sounds-resource.com\n\ John\n\ 12/6/19\n
+comment1.params=
+comment1.target=Information2()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Information2.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

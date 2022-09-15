@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\n\ Describes\ how\ the\ ball\ will\ act\ according\ to\ the\ influences\ of\ the\ other\ characters\ \n\ \n\ John\ and\ Kenny\ \n\ 12/6/19\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ swing()
+comment2.text=\n\ Checking\ if\ the\ player\ swings\ at\ the\ correct\ timing\ and\ removes\ him\ if\ he\ does\ not\n\ Adds\ points\ for\ player\ if\ defeats\ other\ player\n\ Kenny\ and\ John\n
+comment3.params=
+comment3.target=void\ evaluateHitFail()
+comment3.text=\n\ Check\ if\ the\ player\ is\ safe\ or\ should\ be\ removed\ after\ touching\ the\ ball\n\ Kenny\n
+comment4.params=
+comment4.target=void\ collideWall()
+comment4.text=\n\ When\ the\ ball\ bounces\ off\ the\ wall\n\ John\n
+comment5.params=
+comment5.target=void\ hitSuccess()
+comment5.text=\n\ Gets\ the\ ball\ moving\ faster\ if\ the\ ball\ is\ hit\ by\ the\ player\ successfully\n\ Kenny\ and\ John\n
+numComments=6

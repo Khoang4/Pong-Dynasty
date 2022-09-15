@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Selecter
+comment0.text=\r\n\ Selector\ for\ the\ MainMenu\ Screen\r\n\ Drawn\ by\ John\r\n\ Code\ by\ Kenny\r\n\ 11/26/19\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Reads\ a\ user's\ input\ and\ moves\ corresponding\ to\ the\ input.\r\n\ Kenny\r\n
+comment3.params=
+comment3.target=void\ sound()
+comment3.text=\r\n\ Plays\ a\ sound\ whenever\ the\ selector\ moves\r\n\ sounds\ from\ sounds-resource.com\r\n\ Kenny\r\n
+numComments=4

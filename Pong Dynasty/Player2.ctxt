@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Player2
+comment0.text=\r\n\ One\ of\ the\ players\ that\ will\ hit\ the\ ball\ and\ can\ move\ around\r\n\ Drawn\ by\ John\ \ \r\n\ Code\ by\ both\ Kenny\ and\ John\r\n\ 12/9/19\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ swing()
+comment2.text=determines\ if\ the\ player\ is\ swinging/trying\ to\ hit\ the\ ball\r\n\ Kenny\r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ Getting\ the\ player\ to\ move\ \r\n\ Kenny\r\n
+comment4.params=
+comment4.target=void\ orientation()
+comment4.text=orients\ which\ way\ the\ image\ faces\ \r\n\ John\r\n
+comment5.params=
+comment5.target=boolean\ getOrientation()
+comment5.text=\r\n\ Determines\ how\ the\ player\ is\ oriented\r\n\ John\r\n
+numComments=6

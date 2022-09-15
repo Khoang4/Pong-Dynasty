@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\n\ Displays\ the\ Title\ of\ the\ game\ and\ lets\ the\ players\ click\ to\ either\ see\ information\ on\ how\ to\ play\ or\ to\ play\n\ sounds\ from\ sounds-resource.com\n\ music\ from\ soundcloud\n\ John\ and\ Kenny\n\ 12/4/19\n
+comment1.params=
+comment1.target=MainMenu()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateSelecterPosition()
+comment3.text=\n\ Checks\ on\ a\ user's\ input\ and\ then\ changes\ the\ position\ of\ the\ selector\ based\ on\ the\ input\n\ John\n
+comment4.params=
+comment4.target=void\ toNextScreen()
+comment4.text=\n\ Checks\ position\ of\ the\ selector\ and\ then\ goes\ to\ different\ world\ depending\ on\ the\ position\n\ Kenny\n
+comment5.params=
+comment5.target=void\ toTitleScreen()
+comment5.text=\nreturns\ to\ title\ screen\ \nJohn\n
+numComments=6

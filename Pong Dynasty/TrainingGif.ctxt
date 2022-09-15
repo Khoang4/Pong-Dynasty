@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TrainingGif
+comment0.text=\r\n\ Gives\ a\ video\ for\ the\ user\ to\ watch\ in\ order\ to\ learn\ how\ to\ play\ the\ game\r\n\ Drawn\ by\ John\r\n\ John\ \r\n\ 12/9/19\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Gets\ the\ gif\ to\ play\ on\ the\ screen\r\n
+numComments=2
