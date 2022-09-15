@@ -1,12 +1,17 @@
 # Pong-Dynasty
 
-#THIS PROJECT WILL REQUIRE OPENING USING THE GREENFOOT IDE
+THIS PROJECT WILL REQUIRE OPENING USING THE GREENFOOT IDE
 
-#AUTHORS: \n
+AUTHORS:
+
 Kenny Hoang John Manneschmidt
 
-#USER INSTRUCTIONS:\n
-player 1 controls:\n
-wasd for movement and space to swing the paddle\n
-player 2 controls\n
+#USER INSTRUCTIONS:
+
+player 1 controls:
+
+wasd for movement and space to swing the paddle
+
+player 2 controls
+
 arrow keys for movement and shift to swing the paddle
