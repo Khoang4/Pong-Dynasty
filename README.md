@@ -6,7 +6,7 @@ AUTHORS:
 
 Kenny Hoang John Manneschmidt
 
-#USER INSTRUCTIONS:
+USER INSTRUCTIONS:
 
 player 1 controls:
 
